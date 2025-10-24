@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "product-default",
+      "description": "A generic product box on a shelf.",
+      "imageUrl": "https://images.unsplash.com/photo-1613574203646-ffdae46ce3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9kdWN0JTIwYm94fGVufDB8fHx8MTc2MDczMjM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product box"
+    }
+  ]
+}
